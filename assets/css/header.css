@@ -1,0 +1,26 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 100%;
+}
+
+img {
+    width: 150px;
+
+}
+
+.links-container {
+    display: flex;
+    gap: 40px;
+}
+
+.links-container a {
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.100);
+    transition: all 1s;
+}
+
+
+.links-container a:hover {
+    color: rgba(138, 28, 182, 0.644);
+}

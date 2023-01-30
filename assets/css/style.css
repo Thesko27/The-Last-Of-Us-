@@ -1,0 +1,12 @@
+body {
+    height: 100vh;
+    background: linear-gradient(90deg, rgba(16, 0, 245, 0.726), rgba(198, 72, 248, 0.616) 35%, rgba(24, 182, 245, 0.555)), url("../img/fundo.jpg");
+    background-size: cover;
+    background-position: right;
+    display: flex;
+    flex-direction: column;
+    padding: 80px 128px 50px 128px;
+
+}
+
+
